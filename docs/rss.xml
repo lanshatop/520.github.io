@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>快乐-分享</title><link>https://lanshatop.github.io/520.github.io</link><description>快乐分享</description><copyright>快乐-分享</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://app.yto88.cn/img/png/Settings1.png</url><title>avatar</title><link>https://lanshatop.github.io/520.github.io</link></image><lastBuildDate>Fri, 13 Dec 2024 06:37:18 +0000</lastBuildDate><managingEditor>快乐-分享</managingEditor><ttl>60</ttl><webMaster>快乐-分享</webMaster><item><title>驾驶舱视频-ZLMediaKit</title><link>https://lanshatop.github.io/520.github.io/post/jia-shi-cang-shi-pin--ZLMediaKit.html</link><description>[https://docs.zlmediakit.com/zh/](https://docs.zlmediakit.com/zh/)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>快乐-分享</title><link>https://lanshatop.github.io/520.github.io</link><description>快乐分享</description><copyright>快乐-分享</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://app.yto88.cn/img/png/Settings1.png</url><title>avatar</title><link>https://lanshatop.github.io/520.github.io</link></image><lastBuildDate>Fri, 13 Dec 2024 16:26:15 +0000</lastBuildDate><managingEditor>快乐-分享</managingEditor><ttl>60</ttl><webMaster>快乐-分享</webMaster><item><title>驾驶舱视频-ZLMediaKit</title><link>https://lanshatop.github.io/520.github.io/post/jia-shi-cang-shi-pin--ZLMediaKit.html</link><description>[https://docs.zlmediakit.com/zh/](https://docs.zlmediakit.com/zh/)&#13;
 &#13;
 # 快速开始&#13;
 &#13;
@@ -48,7 +48,30 @@
     Receive MAC         : 8cf3-1912-863f。</description><guid isPermaLink="true">https://lanshatop.github.io/520.github.io/post/hua-wei-jiao-huan-ji-cha-xun-IP-di-zhi-chong-tu.html</guid><pubDate>Fri, 13 Dec 2024 06:34:13 +0000</pubDate></item><item><title>12358888</title><link>https://lanshatop.github.io/520.github.io/post/12358888.html</link><description>0000000000000&#13;
 000000&#13;
 00000000000&#13;
-。</description><guid isPermaLink="true">https://lanshatop.github.io/520.github.io/post/12358888.html</guid><pubDate>Fri, 13 Dec 2024 06:30:06 +0000</pubDate></item><item><title>钉钉蓝牙打卡</title><link>https://lanshatop.github.io/520.github.io/post/ding-ding-lan-ya-da-qia.html</link><description>钉钉蓝牙打卡破解，需要提供公司的蓝牙打卡机的MAC地址和广播数据。</description><guid isPermaLink="true">https://lanshatop.github.io/520.github.io/post/ding-ding-lan-ya-da-qia.html</guid><pubDate>Fri, 13 Dec 2024 02:03:54 +0000</pubDate></item><item><title>分区交换机配置过程</title><link>https://lanshatop.github.io/520.github.io/post/fen-qu-jiao-huan-ji-pei-zhi-guo-cheng.html</link><description>admin@huawei.com&#13;
+。</description><guid isPermaLink="true">https://lanshatop.github.io/520.github.io/post/12358888.html</guid><pubDate>Fri, 13 Dec 2024 06:30:06 +0000</pubDate></item><item><title>驾驶舱视频-ZLMediaKit</title><link>https://lanshatop.github.io/520.github.io/post/jia-shi-cang-shi-pin--ZLMediaKit.html</link><description>[https://docs.zlmediakit.com/zh/](https://docs.zlmediakit.com/zh/)&#13;
+&#13;
+# 快速开始&#13;
+&#13;
+[[ZLMediaKit](https://docs.zlmediakit.com/)](https://docs.zlmediakit.com/)2023年10月9日大约 4 分钟&#13;
+&#13;
+---&#13;
+&#13;
+此页内容&#13;
+&#13;
+- [[构建环境](https://docs.zlmediakit.com/zh/tutorial/#%E6%9E%84%E5%BB%BA%E7%8E%AF%E5%A2%83)](https://docs.zlmediakit.com/zh/tutorial/#构建环境)&#13;
+- *   [[支持 C++11 的编译器](https://docs.zlmediakit.com/zh/tutorial/#%E6%94%AF%E6%8C%81-c-11-%E7%9A%84%E7%BC%96%E8%AF%91%E5%99%A8)](https://docs.zlmediakit.com/zh/tutorial/#支持-c-11-的编译器)&#13;
+    - [[CMake](https://docs.zlmediakit.com/zh/tutorial/#cmake)](https://docs.zlmediakit.com/zh/tutorial/#cmake)&#13;
+- [[获取代码](https://docs.zlmediakit.com/zh/tutorial/#%E8%8E%B7%E5%8F%96%E4%BB%A3%E7%A0%81)](https://docs.zlmediakit.com/zh/tutorial/#获取代码)&#13;
+- *   [[安装依赖库](https://docs.zlmediakit.com/zh/tutorial/#%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96%E5%BA%93)](https://docs.zlmediakit.com/zh/tutorial/#安装依赖库)&#13;
+- [[构建与编译 ZLMediaKit](https://docs.zlmediakit.com/zh/tutorial/#%E6%9E%84%E5%BB%BA%E4%B8%8E%E7%BC%96%E8%AF%91-zlmediakit)](https://docs.zlmediakit.com/zh/tutorial/#构建与编译-zlmediakit)&#13;
+- [[运行 ZLMediaKit](https://docs.zlmediakit.com/zh/tutorial/#%E8%BF%90%E8%A1%8C-zlmediakit)](https://docs.zlmediakit.com/zh/tutorial/#运行-zlmediakit)&#13;
+- *   [[MediaServer 进程](https://docs.zlmediakit.com/zh/tutorial/#mediaserver-%E8%BF%9B%E7%A8%8B)](https://docs.zlmediakit.com/zh/tutorial/#mediaserver-进程)&#13;
+    - [[C 接口的 SDK](https://docs.zlmediakit.com/zh/tutorial/#c-%E6%8E%A5%E5%8F%A3%E7%9A%84-sdk)](https://docs.zlmediakit.com/zh/tutorial/#c-接口的-sdk)&#13;
+    - [[以 test_ 开头的测试程序](https://docs.zlmediakit.com/zh/tutorial/#%E4%BB%A5-test-%E5%BC%80%E5%A4%B4%E7%9A%84%E6%B5%8B%E8%AF%95%E7%A8%8B%E5%BA%8F)](https://docs.zlmediakit.com/zh/tutorial/#以-test-开头的测试程序)&#13;
+- [[推流测试](https://docs.zlmediakit.com/zh/tutorial/#%E6%8E%A8%E6%B5%81%E6%B5%8B%E8%AF%95)](https://docs.zlmediakit.com/zh/tutorial/[#](https://docs.zlmediakit.com/zh/tutorial/#%E6%9E%84%E5%BB%BA%E7%8E%AF%E5%A2%83)推流测试)&#13;
+&#13;
+本教程将指导您完成编译和运行 ZLMediaKit。</description><guid isPermaLink="true">https://lanshatop.github.io/520.github.io/post/jia-shi-cang-shi-pin--ZLMediaKit.html</guid><pubDate>Fri, 13 Dec 2024 03:09:57 +0000</pubDate></item><item><title>Audiobookshelf安卓APK</title><link>https://lanshatop.github.io/520.github.io/post/Audiobookshelf-an-zhuo-APK.html</link><description>[Audiobookshelf.docx](https://github.com/user-attachments/files/18120264/Audiobookshelf.docx)&#13;
+。</description><guid isPermaLink="true">https://lanshatop.github.io/520.github.io/post/Audiobookshelf-an-zhuo-APK.html</guid><pubDate>Fri, 13 Dec 2024 03:03:53 +0000</pubDate></item><item><title>钉钉蓝牙打卡</title><link>https://lanshatop.github.io/520.github.io/post/ding-ding-lan-ya-da-qia.html</link><description>钉钉蓝牙打卡破解，需要提供公司的蓝牙打卡机的MAC地址和广播数据。</description><guid isPermaLink="true">https://lanshatop.github.io/520.github.io/post/ding-ding-lan-ya-da-qia.html</guid><pubDate>Fri, 13 Dec 2024 02:03:54 +0000</pubDate></item><item><title>分区交换机配置过程</title><link>https://lanshatop.github.io/520.github.io/post/fen-qu-jiao-huan-ji-pei-zhi-guo-cheng.html</link><description>admin@huawei.com&#13;
 #==============安装weakea插件===========================&#13;
 &#13;
 &lt;JBZHSL-S7706&gt;load-module weakea &#13;
